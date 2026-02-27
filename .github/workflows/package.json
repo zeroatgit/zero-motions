@@ -1,0 +1,11 @@
+{
+      "name": "zero-motions",
+        "version": "1.0.0",
+          "description": "Automated motion graphics renderer — HTML animations → MP4",
+            "scripts": {
+                "render": "node scripts/render.js"
+                  },
+                    "dependencies": {
+                        "puppeteer": "^21.0.0"
+                          }
+                          }

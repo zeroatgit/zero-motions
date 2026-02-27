@@ -1,0 +1,31 @@
+{
+      "animation": "new-grid",
+        "output": "new-grid.mp4",
+          "duration": 4,
+            "fps": 60,
+              "width": 1080,
+                "height": 1350,
+                  "content": {
+                      "topLabel": "Instagram's\nNew Grid Cheatsheet",
+                          "titleLine1": "Introducing",
+                              "titleHighlight": "New",
+                                  "titleLine2Before": "The",
+                                      "titleLine2After": "Grid",
+                                          "subtitle": "Aka the 3:4 grid, but that may sound complicated...",
+                                              "tagline": "Let's break it down...",
+                                                  "author": "Vasil Enev",
+                                                      "year": "2025",
+                                                          "month": "January"
+                                                            },
+                                                              "theme": {
+                                                                  "background": "#f4f5f0",
+                                                                      "textDark": "#1a3a32",
+                                                                          "accentFrom": "#2e7d32",
+                                                                              "accentTo": "#8bc34a",
+                                                                                  "gridColor": "rgba(0,120,100,0.09)",
+                                                                                      "dotColor": "#1a7a6e",
+                                                                                          "subtitleColor": "#999",
+                                                                                              "labelColor": "#666"
+                                                                                                }
+                                                                                                }
+}
